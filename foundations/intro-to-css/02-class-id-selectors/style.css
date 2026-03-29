@@ -10,7 +10,14 @@
     font-size: 36px;
 }
 
-.big-font {
+.big-font,
+#third-element {
     font-size: 24px;
+}
+
+#third-element {
+    background-color: #26dd88;
+
+    font-weight: bold;
 }
     /* Add CSS Styling */
